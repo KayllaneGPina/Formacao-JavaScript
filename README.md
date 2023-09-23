@@ -7,7 +7,7 @@
     - [x] Criando Objetos e Classes em JavaScript
     - [x] Arrays e Estruturas de Repetição
     - [x] Importação e Exportação com JavaScript
-    - [x] Desafio de Código
+    - [x] [Desafios de Código](https://github.com/KayllaneGPina/Formacao-JavaScript/tree/main/desafios-codigos)
 - JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática
     - [] Introdução ao Desenvolvimento Web com JavaScript
     - [] Criando um Projeto com HTML/CSS para Listagem de Pokémon
