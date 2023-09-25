@@ -10,7 +10,7 @@
     - [x] [Desafios de Código](https://github.com/KayllaneGPina/Formacao-JavaScript/tree/main/desafios-codigos)
 - JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática
     - [x] Introdução ao Desenvolvimento Web com JavaScript
-    - [] Criando um Projeto com HTML/CSS para Listagem de Pokémon
+    - [x] Criando um Projeto com HTML/CSS para Listagem de Pokémon
     - [] Dominando o Protocolo HTTP e Integrando com a PokeAPI
 - Dominando Conceitos Avançados em JavaScript
     - [] Aprendendo Variáveis, Escopo e Tipos de Dados com JavaScript
