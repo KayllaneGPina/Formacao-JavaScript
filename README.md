@@ -11,7 +11,7 @@
 - JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática
     - [x] Introdução ao Desenvolvimento Web com JavaScript
     - [x] Criando um Projeto com HTML/CSS para Listagem de Pokémon
-    - [] Dominando o Protocolo HTTP e Integrando com a PokeAPI
+    - [x] Dominando o Protocolo HTTP e Integrando com a PokeAPI
 - Dominando Conceitos Avançados em JavaScript
     - [] Aprendendo Variáveis, Escopo e Tipos de Dados com JavaScript
     - [] Orientação a Protótipo com JavaScript
