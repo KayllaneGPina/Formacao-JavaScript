@@ -7,21 +7,37 @@ let offset = 0
 
 function convertPokemonToLi(pokemon) {
     return `
-        <li class="pokemon ${pokemon.type}">
+        <li class="pokemon ${pokemon.type}" onclick="flipCard(this)">
             <span class="number">#${pokemon.number}</span>
             <span class="name">${pokemon.name}</span>
 
             <div class="detail">
-                <ol class="types">
-                    ${pokemon.types.map((type) => `<li class="type ${type}">${type}</li>`).join('')}
-                </ol>
-
-                <img src="${pokemon.photo}"
-                     alt="${pokemon.name}">
+                    <ol class="types">
+                        ${pokemon.types.map((type) => `<li class="type ${type}">${type}</li>`).join('')}
+                    </ol>
+                    
+                    <img src="${pokemon.photo}"
+                    alt="${pokemon.name}">
+                    </div>
             </div>
+
+            <div class="habilidades">
+                <h5>Habilidades Especiais</h5>
+                <ol class="ability">
+                    ${pokemon.ability.map((abilities) => `<li class="abilities ${abilities}">${abilities}</li>`).join('')}
+                </ol>
+            </div>
+
         </li>
     `
 }
+
+pokemonList.addEventListener('click', (event) => {
+    const pokemon = event.target.closest('.pokemon')
+    if (pokemon) {
+        pokemon.classList.toggle('flipped')
+    }
+})
 
 function loadPokemonItens(offset, limit) {
     pokeApi.getPokemons(offset, limit).then((pokemons = []) => {
@@ -47,5 +63,3 @@ loadMoreButton.addEventListener('click', () => {
     }
 
 })
-
-

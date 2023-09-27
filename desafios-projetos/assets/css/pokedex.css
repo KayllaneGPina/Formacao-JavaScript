@@ -84,6 +84,12 @@
     margin: .5rem;
     padding: 1rem;
     border-radius: 1rem;
+    cursor: pointer;
+    transition: transform 0.5s ease-in-out;
+}
+
+.pokemon:hover {
+    transform: scale(1.1);
 }
 
 .pokemon .number {
@@ -120,6 +126,29 @@
     border-radius: 1rem;
     filter: brightness(1.1);
     text-align: center;
+}
+
+.pokemon .habilidades {
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.pokemon .habilidades .ability{
+    display: none;
+    justify-content: center;
+    text-transform: capitalize;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}
+
+.pokemon.flipped .habilidades .ability {
+    display: block;
 }
 
 .pokemon .detail img {

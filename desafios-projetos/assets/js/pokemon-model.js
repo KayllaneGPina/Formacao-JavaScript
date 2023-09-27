@@ -4,5 +4,5 @@ class Pokemon {
     type;
     types = [];
     photo;
-    // Adicionar as habilidades do pokemon
+    abilities;
 }
