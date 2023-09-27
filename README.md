@@ -12,7 +12,7 @@
     - [x] Introdução ao Desenvolvimento Web com JavaScript
     - [x] Criando um Projeto com HTML/CSS para Listagem de Pokémon
     - [x] Dominando o Protocolo HTTP e Integrando com a PokeAPI
-    - [] [Desafio de Projeto - Construindo Uma Pokédex com JavaScript](https://github.com/KayllaneGPina/Formacao-JavaScript/tree/main/desafios-projetos)
+    - [x] [Desafio de Projeto - Construindo Uma Pokédex com JavaScript](https://github.com/KayllaneGPina/Formacao-JavaScript/tree/main/desafios-projetos)
 - Dominando Conceitos Avançados em JavaScript
     - [] Aprendendo Variáveis, Escopo e Tipos de Dados com JavaScript
     - [] Orientação a Protótipo com JavaScript
