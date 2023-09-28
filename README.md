@@ -14,7 +14,7 @@
     - [x] Dominando o Protocolo HTTP e Integrando com a PokeAPI
     - [x] [Desafio de Projeto - Construindo Uma Pokédex com JavaScript](https://github.com/KayllaneGPina/Formacao-JavaScript/tree/main/desafios-projetos)
 - Dominando Conceitos Avançados em JavaScript
-    - [] Aprendendo Variáveis, Escopo e Tipos de Dados com JavaScript
+    - [x] Aprendendo Variáveis, Escopo e Tipos de Dados com JavaScript
     - [] Orientação a Protótipo com JavaScript
     - [] Funções e Manipulação de Listas com JavaScript
     - [] Promises e Assincronismo com JavaScript
