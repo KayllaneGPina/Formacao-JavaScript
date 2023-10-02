@@ -17,6 +17,6 @@
     - [x] Aprendendo Variáveis, Escopo e Tipos de Dados com JavaScript
     - [x] Orientação a Protótipo com JavaScript
     - [x] Funções e Manipulação de Listas com JavaScript
-    - [] Promises e Assincronismo com JavaScript
+    - [x] Promises e Assincronismo com JavaScript
 - Currículo Online com HTML, CSS e JavaScript: Da Prototipação ao Deploy
     - [] Criando e Estilizando uma Página de Portifólio Profissional com CSS e JavaScript
