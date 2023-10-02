@@ -15,8 +15,8 @@
     - [x] [Desafio de Projeto - Construindo Uma Pokédex com JavaScript](https://github.com/KayllaneGPina/Formacao-JavaScript/tree/main/desafios-projetos)
 - Dominando Conceitos Avançados em JavaScript
     - [x] Aprendendo Variáveis, Escopo e Tipos de Dados com JavaScript
-    - [] Orientação a Protótipo com JavaScript
-    - [] Funções e Manipulação de Listas com JavaScript
+    - [x] Orientação a Protótipo com JavaScript
+    - [x] Funções e Manipulação de Listas com JavaScript
     - [] Promises e Assincronismo com JavaScript
 - Currículo Online com HTML, CSS e JavaScript: Da Prototipação ao Deploy
     - [] Criando e Estilizando uma Página de Portifólio Profissional com CSS e JavaScript
