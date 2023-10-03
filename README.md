@@ -19,4 +19,5 @@
     - [x] Funções e Manipulação de Listas com JavaScript
     - [x] Promises e Assincronismo com JavaScript
 - Currículo Online com HTML, CSS e JavaScript: Da Prototipação ao Deploy
-    - [] Criando e Estilizando uma Página de Portifólio Profissional com CSS e JavaScript
+    - [x] Criando e Estilizando uma Página de Portifólio Profissional com CSS e JavaScript
+    - [x] [Portifólio](https://github.com/KayllaneGPina/js-developer-portfolio)
